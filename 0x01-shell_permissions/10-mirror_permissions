@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod 664 hello
-perm=$(stat -c "%a" hello)
-chmod "$perm" olleh
+chmod "$(stat -c "%a" hello)" olleh
