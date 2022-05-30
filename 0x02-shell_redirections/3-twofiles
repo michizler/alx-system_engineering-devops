@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/passwd > for_3 | cat /etc/hosts >> for_3 | less for_3
