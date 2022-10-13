@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script prints "Best School" 10 times but "Hi" on the 9th iteration
 
 i="0"
